@@ -1,0 +1,54 @@
+// Sonny Tran
+// CIS 3342
+// Prof Pascucci
+// Home Page
+
+.bg-header {
+    /* background-color: #fafafa; */
+    background-color: #9c1c34;
+    padding: 30px;
+    color: white;
+}
+.title{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.project{
+    margin-bottom: 20px;
+}
+.project-image-container{
+    width: 200px;
+    height: 200px;
+}
+.project-image{
+   /* object-fit: contain; */
+   width: 100%;
+   height: 100%;
+}
+.main-content{
+    margin: 0 auto;
+    color: white;
+}
+.project-title{
+    margin-top: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: 500;
+    display: block;
+    color: white;
+}
+.project-title:hover {
+    text-decoration: none;
+    color: white;
+ }
+.project-details{
+    background-color: #9c1c34;
+    padding-left: 30px !important;
+}
+
+.project-description-header{
+   
+    margin-bottom: 0px;
+    font-size: 20px;
+}
